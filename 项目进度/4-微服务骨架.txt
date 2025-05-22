@@ -1,0 +1,47 @@
+第四章总体进度（2025年5月20日～？）
+    4.1 Maven多模块搭建项目骨架       ---> done
+    4.2 添加框架平台基础设施
+    4.3 封装API请求日志
+    4.4 SpringBoot整合MyBatis
+    4.5 SpringBoot整合数据库
+    4.6 SpringBoot整合代码生成器
+    4.7 自定义Jackson配置
+    4.8 SpringBoot整合Logback
+    4.9 整合Maven插件
+    4.10 SpringBoot添加全局异常捕获
+
+
+    4.2 添加框架平台基础设施
+        添加框架模块                  ---> done
+        添加common模块               ---> done
+        添加Response模块             ---> done
+        父管理模块                   ---> done
+        添加一个测试接口              ---> done
+
+    4.3 封装API请求日志
+        自定义SpringBoot            ---> done
+        添加JSON工具类               ---> done
+        添加日志切面                 ---> done
+        starter自动配置             ---> done
+        统一版本控制                 ---> done
+        使用starter                ---> done
+
+    4.4 整合MyBatisPlus
+        整合MyBatis                ---> done
+        项目多环境配置               ---> done
+        新建相关文件夹               ---> done
+        配置MyBatis                ---> done
+        新建DO和Mapper类
+        MyBatis插件                ---> done
+        配置SQL日志打印             ---> done
+        配置SQL日志打印             ---> done
+        编写单元测试
+
+    4.5 SpringBoot整合连接池
+
+
+    4.6 整合MyBatis代码生成器
+    4.7 自定义Jackson配置
+    4.8 SpringBoot整合Logback
+    4.9 整合maven插件
+    4.10 添加全局异常
